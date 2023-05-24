@@ -1,0 +1,9 @@
+{
+	"path": "$FLORA",
+	"load_package_once": true,
+	"env": [
+		{
+			"FLORA": "G:/My Drive/Project Pegasus/Packages/Flora"
+		}
+	]
+}
