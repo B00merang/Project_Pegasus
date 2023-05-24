@@ -1,0 +1,9 @@
+{
+	"path": "$PEGASUS",
+	"load_package_once": true,
+	"env": [
+		{
+			"PEGASUS": "G:/My Drive/Project Pegasus/Packages/Pegasus"
+		}
+	]
+}
