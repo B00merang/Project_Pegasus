@@ -1,5 +1,7 @@
 # Project_Pegasus
 
+GitIgnore Documentation: https://git-scm.com/docs/gitignore
+
 Version: Houdini 19.5.618 (Daily Build)
 
 Notion: https://iansmithartist.notion.site/Houdini-Organization-Tips-69be652d94de497f978508d7b2008b0e
