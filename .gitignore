@@ -1,1 +1,6 @@
-**/backup
+**/backup/**
+Packages/Flora/otls/backup/**
+**\backup\**
+*.hda
+Packages/Flora/otls/backup/sop_flora_component.1.0_bak1.hda
+Packages/Flora/otls/backup/sop_flora_component.1.0_bak12.hda
